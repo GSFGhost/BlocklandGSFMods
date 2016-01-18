@@ -1,4 +1,4 @@
-<repository:GreekMods>
+<repository:BlocklandGSFMods>
         <addon:System_PTG>
                 <channel:release>
                         <version:3.0.0>
