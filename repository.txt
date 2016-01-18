@@ -1,0 +1,10 @@
+<repository:GreekMods>
+        <addon:Support_Updater>
+                <channel:release>
+                        <version:3.0.0>
+                        <restartRequired:3.0.0>
+                        <file:mods.greek2me.us/storage/Support_Updater/Support_Updater.zip>
+                        <changelog:mods.greek2me.us/storage/Support_Updater/change.log>
+                </channel>
+        </addon>
+</repository>
